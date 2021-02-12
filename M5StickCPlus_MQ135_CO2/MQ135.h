@@ -24,7 +24,7 @@ v1.0 - First release
 /// The load resistance on the board
 #define RLOAD 22.0
 /// Calibration resistance at atmospheric CO2 level
-#define RZERO 314.8
+#define RZERO 126.17
 /// Parameters for calculating ppm of CO2 from sensor resistance
 #define PARA 116.6020682
 #define PARB 2.769034857
