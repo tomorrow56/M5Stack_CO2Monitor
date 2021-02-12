@@ -1,5 +1,6 @@
 # M5Stack CO2 Monitor
 M5StickC Plus CO2 Monitor sample (MQ-135)
 
-![Front](img/IMG20210212120604.jpg)
-![Rear](img/IMG20210212120612.jpg)
+![Front](img/measure.jpg)
+![Rear](img/connect.jpg)
+![ambient](img/ambient.png)
